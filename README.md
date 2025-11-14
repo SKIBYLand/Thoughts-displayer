@@ -92,6 +92,3 @@ figlet.py          # Main program file
 4. **Rendering**: Uses pyfiglet to generate ASCII art
 5. **Output**: Displays the formatted text
 
-## License
-
-This project is for educational purposes and skills demonstration as part of the CS50P curriculum.
